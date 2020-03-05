@@ -8,7 +8,7 @@ import statistics
 # Pablo Ruiz 18259 (PingMaster99)
 
 
-random.seed(1234567890)
+random.seed(707070)
 timeValues = []
 numberOfProcesses = 25    # Defines the amount of processes to be executed
 CPUCores = 1              # Number of processors
