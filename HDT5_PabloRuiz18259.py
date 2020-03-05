@@ -2,6 +2,12 @@ import simpy
 import random
 import statistics
 
+# Algoritmos y Estructuras de Datos
+# Catedratico Julio Ayala
+# Auxiliares Luis Delgado y Edgar Toledo
+# Pablo Ruiz 18259 (PingMaster99)
+
+
 random.seed(1234567890)
 timeValues = []
 numberOfProcesses = 25    # Defines the amount of processes to be executed
